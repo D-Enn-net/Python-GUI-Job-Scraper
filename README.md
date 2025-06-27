@@ -20,10 +20,12 @@ This project was built to showcase skills in GUI development, web scraping, and 
 ## 🖼️ Screenshots
 
 ### Application on Launch ("Before")
-*(Here you will drag-and-drop your 'before' screenshot)*
+![before scraping](https://github.com/user-attachments/assets/1814c03b-ed3e-43d7-a42a-d70699c3b0ba)
+
 
 ### Application After Fetching Data ("After")
-*(Here you will drag-and-drop your 'after' screenshot)*
+![after scraping](https://github.com/user-attachments/assets/75df5701-b0c1-4330-a2f9-11b990c850fc)
+
 
 
 ## ⚙️ How to Use
